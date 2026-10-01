@@ -9,7 +9,7 @@ struct Persona {
 int main (){
     Persona una_Persona;
     una_Persona.nombre= "Gaby";
-    una_Persona.dni= 47960233;
+    una_Persona.dni= 87654321;
 
     cout<< "Nombre: "<< una_Persona.nombre<<endl;
     cout<< "DNI: "<<una_Persona.dni<<endl;
