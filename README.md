@@ -10,4 +10,3 @@
 * **Lenguaje:** C++
 * **Entorno de desarrollo:** Visual Studio Code
 * **Compilador:** GCC / G++
-*
